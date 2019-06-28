@@ -1,0 +1,4 @@
+copy_ftb_to_object.sh
+phot_reduce.sh
+step1_alldata.sh
+test.sh
